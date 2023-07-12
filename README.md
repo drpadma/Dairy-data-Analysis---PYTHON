@@ -1,7 +1,7 @@
 # Dairy-data-Analysis- PYTHON
 
 The dataset provides a detailed and comprehensive collection of data related to dairy farms, dairy products, sales, and inventory management. 
-It contains information from various brands and milk products over the past 4 years and wants to understand the sales pattern to improvise the pricing strategies among different brands.
+It contains information from various brands and milk products of India over the past 4 years and wants to understand the sales pattern to improvise the pricing strategies among different brands.
 
 ## Data
 Opensource data from Kaggle: [Link](https://www.kaggle.com/datasets/suraj520/dairy-goods-sales-dataset)
